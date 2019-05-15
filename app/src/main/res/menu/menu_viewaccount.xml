@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.adevelop.myapplication.MainActivity">
+    <item
+        android:id="@+id/edit_acct"
+        android:orderInCategory="100"
+        android:title="@string/edit_acct"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/delete_acct"
+        android:orderInCategory="101"
+        android:title="@string/delete_acct"
+        app:showAsAction="never" />
+</menu>

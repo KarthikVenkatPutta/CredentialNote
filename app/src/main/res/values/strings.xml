@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">CredentialNote</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Choose Password</string>
+    <string name="confirm_prompt_password">Confirm Password</string>
+    <string name="login_prompt_password">Enter Password</string>
+    <string name="action_sign_in">Login</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <!--<string name="permission_rationale">"Contacts permissions are needed for providing email-->
+        <!--completions."-->
+    <!--</string>-->
+    <string name="title_activity_main">Accounts</string>
+    <string name="title_activity_save_account">Save Account</string>
+    <string name="title_view_account">Account Info</string>
+
+    <!--menu-->
+    <string name="action_settings">Settings</string>
+    <string name="add_acct">Add</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="edit_acct">Edit</string>
+    <string name="delete_acct">Delete</string>
+    <string name="title_activity_edit_account">Edit Account</string>
+    <string name="title_activity_flash">Flash</string>
+    <string name="title_activity_register">Credential Note</string>
+</resources>
